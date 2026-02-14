@@ -1,6 +1,13 @@
-# 💫 About Me:
-<h2>Hi 👋, I'm Aditi Agarwal</h2><br><br>💡 Passionate about learning new technologies and solving real-world problems  <br>🎓 Computer Science Engineering Student  <br>🔭 Currently focusing on **Data Structures and Algorithms**  <br>🌱 Learning **Full Stack Development (MERN Stack) and exploring AI**  <br>👯 Open to collaborating on **Web Development and Open Source projects**  <br>💬 Ask me about **JavaScript, React, Node.js, and DSA basics**  <br>⚡ Interests: Hackathons, problem solving, tech learning, and creative projects  <br>📫 Email: aditiag150406@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=HI+I'M+ADITI+AGARWAL" />
+</p>
 
+## 💫 About Me:
+<br>💡 Passionate about learning new technologies and solving real-world problems  <br>🎓 Computer Science Engineering Student  <br>🔭 Currently focusing on Data Structures and Algorithms  <br>🌱 Currently Learning Full Stack Development  <br>👯 Open to collaborating on Web Development and Open Source projects  <br>💬 Ask me about JavaScript, React, Node.js, and DSA basics <br>⚡ Interests: Hackathons, problem solving, tech learning, and creative projects  <br>📫 Email: aditiag150406@gmail.com
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="400"/>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ad.itiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditiag15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditiag150406@gmail.com) 
